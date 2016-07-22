@@ -1,0 +1,339 @@
+
+	.header{
+		    padding: 1%;
+    text-align: center;
+	}
+	.padding-span{
+		padding-left: 3%;
+	}
+	.header a{
+		    text-decoration: none;
+    color: black;
+	}
+	.transparent{ background:rgba(0,0,0,0.4) !important; }
+	.bgclass{
+		 background: url(images/bg1.jpg) no-repeat ;
+		  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+
+	}
+	.tagheader{
+    text-align: center;
+    padding: 1%;
+    font-size: 22px;
+}
+	.tagheader ul a {
+    text-decoration: none;
+    color: white;
+    text-transform: uppercase;
+    padding: 15px;
+}
+.firstdivbody ul{
+
+    list-style: none;
+    padding-left: 0px;
+    margin-bottom: 0px;
+    padding: 10%;
+    padding-bottom: 0px;
+}
+.firstdivbody h4{
+	font-style: italic;
+}
+.sixthdiv h5{
+	font-style: italic;
+	text-align: center;
+}
+.firstdivbody ul li {
+    display: inline-block;
+    position: relative;
+    cursor: pointer;
+    font-size: 20px;
+    padding: 3%;
+    margin-right: 33px;
+    background: #623887;
+    color: #DFCF30;
+}
+	.tagheader ul{
+
+    list-style: none;
+    padding-left: 0px;
+    margin-bottom: 0px;
+	}
+	.tagheader ul li {
+    display: inline-block;
+    position: relative;
+    cursor: pointer;
+}
+.outer-container{
+	
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+}
+.firstdivbody{
+    color: white;
+    text-align: center;
+    padding-right: 15%;
+    padding-left: 15%;
+    padding-top: 7%;
+}
+.trywithus{
+	    background: #623887;
+    padding: 7px;
+    color: #DFCF30;
+}
+a {
+	text-decoration: none;
+}
+.partners ul{
+ list-style: none;
+    padding-left: 0px;
+    margin-bottom: 0px;
+    }
+ .partners ul li{
+    display: inline-block;
+    position: relative;
+    cursor: pointer;
+
+ }
+ .seconddiv h1 {
+    text-align: center;
+    padding: 2%;
+        font-weight: bold;
+        font-size: 60px;
+}
+ .center{
+ 	text-align: center;
+ }
+ .seconddiv h4{
+ 	    font-style: italic;
+ }
+ .seconddivlasttag{
+ 	    font-style: normal !important;
+    color: #623887;
+    font-weight: 500;
+    padding: 30px;
+ }
+ .seconddiv{
+ 	    padding-bottom: 5%;
+ }
+.thirddiv{
+	background: url(images/thirddiv.png) no-repeat ;
+		  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+
+}
+.fourthdiv{
+	padding: 5%;
+	border-top: 2px solid black;
+
+}
+.fourthdiv img{
+	width: 50%;
+	float: right;
+}
+.fourthdivcontentupper h1{
+	    font-size: 60px;
+    color: goldenrod;
+}
+.fourthdivcontentupper h4{
+	    text-align: left;
+    font-weight: bold;
+    font-size: 16px;
+}
+.fourthdivcontentlower p{
+	float: left;
+    border: 1px solid;
+    padding: 15px;
+    border-radius: 5px;
+    color: goldenrod;
+    margin-right: 5%;
+}
+.fifthdiv {
+	background: #BB97D9;
+}
+
+.fifthdiv h1{
+    font-size: 60px;
+    color: white;
+    text-align: center;
+}
+.sixthdiv h1{
+    font-size: 60px;
+    color: black;
+    text-align: center;
+    padding: 25px;
+    font-weight: bold;
+}
+.sixthdiv h4{
+	    color: black;
+    text-align: center;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+.fifthdiv h4{
+	    color: white;
+    text-align: center;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+a:focus, a:hover {
+ 
+    text-decoration: none;
+}
+
+.fifthdiv p{
+    text-align: center;
+    text-decoration: none;
+    
+    width: 30%;
+    padding: 2%;
+    font-size: 18px;
+    margin-left: 35%;
+}
+.fifthdiv h5{
+	text-align: center;
+	font-style: italic;
+	font-size: 14px;
+	color: white;
+}
+.sixthdiv{
+	    background: #d3d3d3;
+}
+.sixthdiv ul {
+    list-style: none;
+    padding-bottom: 25px;
+}
+.sixthdiv ul li {    display: inline-block;
+    position: relative;
+    cursor: pointer;
+    width: 24%;
+    border: 2px solid #623887;
+    text-align: center;
+        border-radius: 5px;
+}
+.sixthdiv ul h3{
+	margin: 0px;
+    padding: 15px;
+    background: #623887;
+    color: #DFCF30;
+}
+.sixthdiv h6{
+	color: #623887;
+}
+.tagbutton {
+    text-align: center;
+    background: #DFCF30;
+    width: 40%;
+    padding: 15px;
+    margin-left: 30%;
+    font-weight: bold;
+    color: #623887;
+    margin-right: 30%;
+    margin-bottom: 5%;
+}
+.seventhdiv h1{
+	font-size: 60px;
+    color: black;
+    text-align: center;
+    padding: 25px;
+    font-weight: bold;
+
+}
+.seventhdiv{
+	text-align: center;
+	    background: #F2BDC5;
+}
+.tagbuttonlast{
+	    background: #DFCF30;
+    padding: 10px;
+    font-size: 24px;
+    color: #623887;
+}
+.tagbuttonlastdiv{
+	    background: #DFCF30;
+    padding: 10px;
+    font-size: 24px;
+    color: #623887;
+
+    width: 20%;
+    margin-left: 40%;
+    margin-top: 20%;
+}
+.eightdiv {
+	text-align: center;
+	    opacity: 0.8;
+	background: url(images/team.jpg) no-repeat ;
+		  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+.eightdiv h1{
+	font-size: 60px;
+    color: black;
+    text-align: center;
+    padding: 25px;
+    font-weight: bold;
+
+}
+.eightdiv h4{
+	padding-left: 20%;
+	padding-top: 5%;
+	padding-right: 20%;
+	color: #DFCF30;
+	    font-weight: bold;
+}
+.ninethdiv{
+	text-align: center;
+	background: #d3d3d3;
+}
+.ninethdiv ul {
+    list-style: none;
+    padding-bottom: 25px;
+}
+.ninethdiv ul li { 
+    display: inline-block;
+    position: relative;
+    cursor: pointer;
+    font-size: 20px;
+    padding: 3%;
+    margin-right: 33px;
+    background: #623887;
+    color: #DFCF30;
+}
+.ninethdiv h1{
+	font-size: 60px;
+    color: black;
+    text-align: center;
+    padding: 25px;
+    font-weight: bold;
+	padding-top: 5%;
+
+}
+.ninethdiv h4{
+	padding: 3%;
+}
+.tenthdiv ul{
+	list-style: none;
+    padding-bottom: 10px;
+}
+.header{
+	color: #d3d3d3;
+}
+.header i {
+	color: #d3d3d3;
+}
+.header a {
+	color: #d3d3d3;
+}
+.firstdivbody a span{
+	color: white;
+}
+.logoheader {
+    text-align: center;
+    padding: 1%;
+}
