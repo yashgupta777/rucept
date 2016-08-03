@@ -1,8 +1,18 @@
-.bodydiv{
+
+	.bodydiv{
 		margin: 0;
 		padding: 0;
 	}
+	.maindiv1{
+		margin: 0;
+		padding: 0;
+		 background: url(images/backgroundmain.jpg) no-repeat ;
+		  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 
+	}
 	.header{
 		text-align: center;
 		color: white;
@@ -123,7 +133,14 @@
  .seconddiv{
  	    padding-bottom: 5%;
  }
+ .thriddiv{
+	background: url(images/thrid3.png) no-repeat ;
+		  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 
+}
 .thriddivheader{
 	padding-bottom: 10%;
 }
@@ -291,7 +308,16 @@ a:focus, a:hover {
     margin-left: 40%;
     margin-top: 20%;
 }
-
+.eightdiv {
+	padding: 0;
+	text-align: center;
+	    opacity: 0.9;
+	background: url(images/Layer5.png) no-repeat ;
+		  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
 .eightdiv h1{
 	font-size: 60px;
     color: #DBC98D;
