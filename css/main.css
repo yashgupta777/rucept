@@ -74,8 +74,8 @@
 .firstdivbody{
     color: white;
     text-align: center;
-    padding-right: 15%;
-    padding-left: 15%;
+    padding-right: 15% !important;
+    padding-left: 15% !important;
     padding-top: 7%;
 }
 .trywithus{
