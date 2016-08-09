@@ -146,6 +146,7 @@
 }
 .thriddivheader{
 	padding-bottom: 10%;
+	margin-left:20%;
 }
 .thriddivheader h1{
 	    text-align: center;
@@ -156,11 +157,16 @@
     margin-top: 25%;
 }
 .thriddivlasttag{
-    font-style: normal !important;
+	    font-style: normal !important;
     color: #8D46CF;
     font-weight: 500;
-    padding: 15%;
     padding-bottom: 5%;
+    margin-top: -10%;
+    text-align: left;
+    padding-left: 10px;
+    padding-right: 30%;
+    width: 78%;
+    padding-top: 10%;
 }
 .btnupload{
 	    display: inline-block;
