@@ -113,7 +113,7 @@
     cursor: pointer;
 
  }
- .transparent{ background:rgba(0,0,0,0.4) !important; }
+ .transparent{ background:rgba(0,0,0,0.6) !important; }
  .seconddiv h1 {
     text-align: center;
     padding: 2%;
