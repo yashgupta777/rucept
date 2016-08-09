@@ -183,6 +183,7 @@
 .fourthdiv{
 	padding: 5%;
 	border-top: 2px solid black;
+	background: #dfddd0;
 
 }
 .fourthdiv img{
@@ -197,6 +198,7 @@
 	    text-align: left;
     font-weight: bold;
     font-size: 16px;
+        padding-right: 48%;
 }
 .fourthdivcontentlower p{
 	float: left;
