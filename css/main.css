@@ -201,10 +201,11 @@
         padding-right: 48%;
 }
 .fourthdivcontentlower p{
-	float: left;
-    border: 1px solid;
+    float: left;
+    border: 2px solid;
     padding: 15px;
     border-radius: 5px;
+    font-size: 18px;
     color: #D49B5C;
     margin-right: 5%;
 }
