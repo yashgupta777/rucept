@@ -93,12 +93,13 @@
     padding-top: 7%;
 }
 .firstdivbody ul li {
+	    margin-left: 2%;
     display: inline-block;
     position: relative;
     cursor: pointer;
-    font-size: 20px;
-    padding: 3%;
-    margin-right: 33px;
+    font-size: 24px;
+    padding: 2%;
+    margin-right: 3%;
     background: #8D46CF;
     color: #DBC98D;
 }
