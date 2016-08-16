@@ -17,7 +17,7 @@
 	}
 	.header{
 		text-align: center;
-		color: white;
+		color: #999999;
 		  padding-top: 1%;
     padding-bottom: 2%;
 	}
@@ -25,18 +25,19 @@
 		padding: 1%
 	}
 	.headerleft i{
-		color: white;
+		color: #999999;
 	}
 	.headermid a{
 		text-decoration: none;
 
 	}
 	.headermid a span{
-		color: white;
+		color: #999999;
+		text-decoration:underline;
 	}
 	.headerright a{
 		text-decoration: none;
-		color: white;
+		color: #999999;
 	}
 	.tagheader{
     text-align: center;
