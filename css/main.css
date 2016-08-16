@@ -386,5 +386,7 @@ a:focus, a:hover {
 }
 .overlay{
 	background:#9858D3 !important;
+	padding-left:0px !important;
+	padding-right:0px !important;
 
 }
